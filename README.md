@@ -4,7 +4,7 @@ Useful tools and explorations of parameter inference, probability distributions,
 
 ## Content
 
-(notebooks/Shrinkage and hierarchical inference with selection effects.ipynb)[notebooks/Shrinkage and hierarchical inference with selection effects.ipynb]: A simple toy example to illustrate hierarchical models with selection effects. Uses Hamiltonian Monte Carlo too.
+[notebooks/Shrinkage and hierarchical inference with selection effects.ipynb](notebooks/Shrinkage and hierarchical inference with selection effects.ipynb): A simple toy example to illustrate hierarchical models with selection effects. Uses Hamiltonian Monte Carlo too.
 
 ## Author
 Boris Leistedt (NYU) </br>
